@@ -53,7 +53,8 @@ This summary lets you quickly:
 * **Check rule status**: Understand the maturity or operational state of a rule via its `status` (e.g., `stable`, `test`, `experimental`, `deprecated`).
 
 You can also check the table in this url:
-![Sigma Rules Table](https://www.datawrapper.de/_/7UQIA/ )
+
+[Sigma Rules Table](https://www.datawrapper.de/_/7UQIA/ )
 
 ---
 
